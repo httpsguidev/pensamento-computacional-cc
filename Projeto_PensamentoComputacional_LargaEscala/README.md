@@ -50,8 +50,9 @@ Uma aplicação web para gestão automotiva distribuída que integra:
 ```text
 Projeto_PensamentoComputacional_LargaEscala/
 │
+├── CasoDeUsoMCGAuto.png           # Diagrama de Caso de Uso - UML
 ├── README.md              # Documentação principal 
 ├── Design.md              # Decomposição, abstração e padrões aplicados 
-├── Diagrama.png           # Diagrama UML ou fluxograma 
+├── Diagrama.png           # Diagrama de Classe - UML 
 ├── Desafios.md            # Lista de desafios e soluções propostas 
 └── src/                   # (Opcional) Protótipo ou código inicial
